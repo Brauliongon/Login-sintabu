@@ -1,0 +1,7 @@
+{
+  "name": "login-sintabu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
